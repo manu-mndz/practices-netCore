@@ -1,0 +1,15 @@
+/home/manumndz/Documentos/GitHub/practices-netCore/bin/Debug/net6.0/practices-netCore
+/home/manumndz/Documentos/GitHub/practices-netCore/bin/Debug/net6.0/practices-netCore.deps.json
+/home/manumndz/Documentos/GitHub/practices-netCore/bin/Debug/net6.0/practices-netCore.runtimeconfig.json
+/home/manumndz/Documentos/GitHub/practices-netCore/bin/Debug/net6.0/practices-netCore.dll
+/home/manumndz/Documentos/GitHub/practices-netCore/bin/Debug/net6.0/ref/practices-netCore.dll
+/home/manumndz/Documentos/GitHub/practices-netCore/bin/Debug/net6.0/practices-netCore.pdb
+/home/manumndz/Documentos/GitHub/practices-netCore/obj/Debug/net6.0/practices-netCore.csproj.AssemblyReference.cache
+/home/manumndz/Documentos/GitHub/practices-netCore/obj/Debug/net6.0/practices-netCore.GeneratedMSBuildEditorConfig.editorconfig
+/home/manumndz/Documentos/GitHub/practices-netCore/obj/Debug/net6.0/practices-netCore.AssemblyInfoInputs.cache
+/home/manumndz/Documentos/GitHub/practices-netCore/obj/Debug/net6.0/practices-netCore.AssemblyInfo.cs
+/home/manumndz/Documentos/GitHub/practices-netCore/obj/Debug/net6.0/practices-netCore.csproj.CoreCompileInputs.cache
+/home/manumndz/Documentos/GitHub/practices-netCore/obj/Debug/net6.0/practices-netCore.dll
+/home/manumndz/Documentos/GitHub/practices-netCore/obj/Debug/net6.0/ref/practices-netCore.dll
+/home/manumndz/Documentos/GitHub/practices-netCore/obj/Debug/net6.0/practices-netCore.pdb
+/home/manumndz/Documentos/GitHub/practices-netCore/obj/Debug/net6.0/practices-netCore.genruntimeconfig.cache
